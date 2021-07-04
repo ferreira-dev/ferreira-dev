@@ -1,11 +1,11 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
 <p align="left"> 
-  Olá meu nome é Fabricio Ferreira, sou desenvolvedor de <strong>PHP</strong>. Estou disponível para freelas/trabalho, caso tenha interesse em me conhecer,entre em contato.
+  Meu nome é Fabricio Ferreira, sou desenvolvedor de <strong>PHP</strong>. Estou disponível para freelas/trabalho, caso tenha interesse em me conhecer,entre em contato.
 </p>
 
 <p align="left">
-  🚀 Habilidades: <strong>PHP, Mysql/Postgree, Html 5, Css, Bootstrap Javascript e Jquery.</strong>
+  🚀 Habilidades: <strong>PHP (CodeIgniter), Mysql/Postgree, Html 5, Css, Bootstrap Javascript ES6, ExtJs e Jquery.</strong>
 </p>
 
 <p align="left">
