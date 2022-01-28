@@ -5,7 +5,7 @@
 </p>
 
 <p align="left">
-  🚀 Habilidades: <strong>PHP (CodeIgniter), Mysql/Postgree, Html 5, Css, Bootstrap, Javascript ES6, ExtJs e Jquery.</strong>
+  🚀 Habilidades: <strong>PHP (CodeIgniter), Mysql/Postgree, Html 5, Css, Bootstrap, Javascript ES6, ExtJs, AngularJs e Jquery.</strong>
 </p>
 
 <p align="left">
