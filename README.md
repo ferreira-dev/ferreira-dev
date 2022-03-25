@@ -15,7 +15,7 @@
 </p>
 
 <p align="left">
-    💌  Se você deseja me conhecer melhor, vamos bater um papo: ⤵️
+    💌  CONTATO : ⤵️
 </p>
 
 <p align="left">
